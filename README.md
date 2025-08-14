@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<br><br>
+<pre>
+    💼 Atualmente atuando como Consultor de Vendas na Samsung
+    📖 ADS | Cruzeiro do Sul (em curso) • futuro Desenvolvedor
+    🎮 Musicas • Games • Anime • Code • Artes
 
-<!--
-**TheAlbertSilva/TheAlbertSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/thealbertsilva/)
+</div>

@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 <br><br>
 <pre>
     💼 Atualmente atuando como Consultor de Vendas na Samsung
@@ -8,7 +7,7 @@
 
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5zOWhmbG5uMXZhM3JjNDR0NjF4eDF2aGx0Y3owOTVmYmo2bWpubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TxjOEVUWq5RTy/giphy.gif" height="200"  />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/thealbertsilva/)
